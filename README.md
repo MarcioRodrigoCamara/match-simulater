@@ -1,2 +1,2 @@
-# match-simulater
+# match-simulator
 Simulador de partidas de futebol 
